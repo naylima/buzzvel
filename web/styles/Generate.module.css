@@ -1,0 +1,37 @@
+.formContainer {
+  margin-top: 20px;
+}
+
+.formGroup {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  background-color: #e5e4e2;
+  border-radius: 5px;
+}
+
+.formGroup label {
+  width: 30%;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  color: #acacac;
+}
+
+.formGroup input {
+  width: 70%;
+  height: 40px;
+  padding-left: 10px;
+  font-size: 16px;
+  border-radius: 0 5px 5px 0;
+  border: 1px solid #dcdcdc;
+}
+
+.formGroup input::placeholder {
+  color: #acacac;
+  font-size: 14px;
+}
+
+
