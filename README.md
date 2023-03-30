@@ -1,10 +1,5 @@
-# Projeto completo com nginx + react + node + postgres
+# Buzzvel
 
-## Como executar o build
- 
-docker-compose up --build
+A QR code generator.
 
-Lembre-se, antes de um novo build apague os volumes
-
-docker-compose down -v
-# buzzvel
+you can check how to run in the README.md of the web and api folders.
